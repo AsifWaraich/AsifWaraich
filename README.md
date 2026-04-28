@@ -1,16 +1,43 @@
-## Hi there 👋
+# 👋 Hi, I'm Asif Javed
 
-<!--
-**AsifWaraich/AsifWaraich** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Flutter Developer | Mobile App Enthusiast | IT Student
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💼 About Me
+- 🌱 Currently learning advanced Flutter development
+- 💻 Passionate about building real-world mobile apps
+- 🔥 Focused on clean UI/UX and API integration
+- 🎯 Goal: Become a professional Mobile App Developer
+
+---
+
+## 🛠 Tech Stack
+- Flutter (Dart)
+- REST APIs
+- Firebase 
+- Git & GitHub
+- Android Studio
+
+---
+
+## 🚀 Projects
+- 🌍 COVID Tracker App (Real-time stats using API)
+- 📚 LearnHub E-learning App
+- 🔧 More projects coming soon...
+
+---
+
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AsifWaraich&show_icons=true&theme=radical)
+
+---
+
+## 📫 Connect With Me
+- GitHub: https://github.com/AsifWaraich
+- LinkedIn: https://www.linkedin.com/in/asif-javed-4168213b7
+- Email: asifwaraich099@gmail.com
+
+---
+
+⭐ "Code. Learn. Build. Repeat."
